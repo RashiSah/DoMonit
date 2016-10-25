@@ -428,3 +428,6 @@ git branch -D my-new-feature
 - Documentation
 - Exception & timeout handling
 - Unit testing
+- The containers would run on all the major Linux distributions and Windows as well.
+- No clashes between tools of different applications.
+- No conflicts would result in zero time delays.
